@@ -4,6 +4,7 @@ This link contains all the information related to NLP.
 
 ## The Reading list of papers regarding feature representation perspective
 [Word2Vec](https://arxiv.org/abs/1301.3781)
+
 [GloVe](https://nlp.stanford.edu/pubs/glove.pdf)
 [FastText](https://arxiv.org/abs/1607.04606)
 [MetaEmbeddings](https://arxiv.org/abs/1804.05262)
