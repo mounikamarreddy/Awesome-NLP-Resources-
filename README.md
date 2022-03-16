@@ -13,11 +13,16 @@ This link contains all the information related to NLP.
 
 [Skip-Thought](https://arxiv.org/abs/1506.06726)
 
-[ELMo](https://arxiv.org/abs/1802.05365)\\
+[ELMo](https://arxiv.org/abs/1802.05365)
+
 [BERT](https://arxiv.org/abs/1810.04805)
+
 [ALBERT](https://arxiv.org/abs/1909.11942)
+
 [RoBERTa](https://arxiv.org/abs/1907.11692)
+
 [DistilBERT](https://arxiv.org/abs/1910.01108)
+
 [ELECTRA](https://arxiv.org/abs/2003.10555)
 
 
