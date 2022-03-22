@@ -1,4 +1,4 @@
-# Awesome-Indian-NLP-Resources
+# Awesome Resources for Indian language NLP
 
 This link contains all the information related to NLP.
 
