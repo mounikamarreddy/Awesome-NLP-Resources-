@@ -8,5 +8,5 @@
 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 
 [Cross-lingual Language Model Pretraining](https://arxiv.org/pdf/1901.07291.pdf)
-
+[ML and NLP Online Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
